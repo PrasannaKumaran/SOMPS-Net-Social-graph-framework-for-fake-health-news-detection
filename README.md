@@ -16,4 +16,4 @@ You can find our paper [here] (yet to be added).
 
 ## Authors
 
-[Prasannakumaran D](http://github.com/PrasannaKumaran), [Harish Srinivasan](), [Sowmiya Sree S](), [Sri Gayathri Devi I](), [Saikrishnan S]()
+[Prasannakumaran D](http://github.com/PrasannaKumaran), [Harish Srinivasan](), [Sowmiya Sree S](), [Sri Gayathri Devi I](https://github.com/gayu28), [Saikrishnan S](https://github.com/SaikrishnanShankar)
